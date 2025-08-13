@@ -100,9 +100,8 @@ This is Earthform.
 ## 📞 Connect With Us
 
 - **Website**: [earthform.ai](https://earthform.ai)
-- **Email**: [hello@earthform.ai](mailto:hello@earthform.ai)
-- **Discord**: [Join our community](https://discord.gg/earthform)
-- **Twitter**: [@EarthformAI](https://twitter.com/EarthformAI)
+- **Email**: [hello@earthform.ai](mailto:joshbyrom.mobile@gmail.com)
+- **Discord**: [Join our community](https://discord.gg/RFbCbX3dfP)
 
 ---
 
